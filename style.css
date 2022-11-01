@@ -127,7 +127,7 @@
     transform: rotateZ(45deg);
     transition: transform 200ms ease-in;
 }
-.btn .delete .image:hover {
+.btn.delete .image:hover {
     transform: rotateZ(0);
 }
 
